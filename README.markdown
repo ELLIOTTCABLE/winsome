@@ -28,7 +28,7 @@ Credits
 -------
 Winsome ships with some icons from the [Silk][] set by [Mark James][], released under a [Creative Commons][] [BY 2.5][] license.
 
+  [Silk]: <http://famfamfam.com/lab/icons/silk/> "The Silk icon set"
+  [Mark James]: <http://mark.james.name/> "Mark James, aka famfamfam"
   [Creative Commons]: <http://creativecommons.org/> "Share, Remix, Reuse: Creative Commons"
-  [Silk][]: <http://famfamfam.com/lab/icons/silk/> "The Silk icon set"
-  [Mark James][]: <http://mark.james.name/> "Mark James, aka famfamfam"
   [BY 2.5]: <http://creativecommons.org/licenses/by/2.5/deed.en> "Creative Commons Attribution 2.5 Deed"
